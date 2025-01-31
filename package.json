@@ -1,0 +1,19 @@
+{
+  "name": "zadatak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 100000"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "amina bilcevic",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0",
+    "selenium-webdriver": "^4.28.1"
+  }
+}
+
