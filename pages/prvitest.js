@@ -12,9 +12,9 @@ class Login {
         this.usernameField = By.id("user-name");
         this.passwordField = By.id("password");
         this.headerContainer = By.css(".header_secondary_container");
-        this.firstProductButton = By.id('add-to-cart-sauce-labs-backpack');
-        this.secondProductButton = By.id('add-to-cart-sauce-labs-bike-light');
-        this.cartBadge = By.css('.shopping_cart_badge');
+        this.firstProductButton = By.id("add-to-cart-sauce-labs-backpack");
+        this.secondProductButton = By.id("add-to-cart-sauce-labs-bike-light");
+        this.cartBadge = By.css(".shopping_cart_badge");
         this.yourCart = By.css(".header_secondary_container");
         this.backpack = By.id("item_4_title_link");
         this.bikelight = By.id("item_0_title_link");
