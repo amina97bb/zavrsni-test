@@ -1,8 +1,0 @@
-node_modules/
-# Ignoriši sve fajlove
-*
-
-# Ali dozvoli samo pages i test foldere
-!pages/
-!test/
-
